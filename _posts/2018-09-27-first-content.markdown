@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vue.js - component"
+title: "0903 (Javascript) array method"
 date: 2018-09-27 
 category: Assignment_JS
 ---
